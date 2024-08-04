@@ -105,7 +105,7 @@ export default function Navebar() {
   return (
     <div class='flex justify-between bg-slate-100 rounded-3xl'>
         <div class='px-16'>
-            <a href="./"> <img src="edify.WEBP " class='  ' alt="not found" /></a>
+            <a href="./"> <img src="edify.webp " class='  ' alt="not found" /></a>
            
         </div>
         <div class='space-x-9 my-6 px-4 cursor-pointer'>
