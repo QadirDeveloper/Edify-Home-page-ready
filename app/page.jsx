@@ -49,9 +49,9 @@ export default function page() {
       <div class="text-center bg-slate-100  py-10 px-96 my-10">
         <h1 class="font-bold text-3xl my-4" >Edify Group Recognized
           with Esteemed ICEF Agency Status</h1>
-          <img src="icef.PNG" class='w-40 mx-48'  alt="not found circle" />
+          <img src="icef.png" class='w-40 mx-48'  alt="not found circle" />
         <p class='py-3'>Recognized globally as a hallmark of excellence and superior professional standards, the ICEF Agency Status (IAS) awarded to Edify Group of Companies is a testament to our distinctiveness and esteemed position within the international education industry.</p>
-        <img src="ice.PNG" class='mx-52' alt="not fond" />
+        <img src="ice.png" class='mx-52' alt="not fond" />
       </div>
       {/* blue picture section start */}
       <div class='flex '>
@@ -60,7 +60,7 @@ export default function page() {
           <h2 class='text-white text-2xl translate-y-3'>Quality of Services</h2>
           <p class='text-white translate-y-5 '>Actively designing solutions for the world’s most ambitious change-makers who will define the future.</p>
           <button class="px-8 py-2 translate-y-16 rounded-lg bg-white text-blue-800 hover:text-white hover:bg-blue-800 hover:border-x-2 hover:border-y-2">Select Desigion</button>
-          <img src="blue.PNG " class='translate-x-48 opacity-65' alt="" />
+          <img src="blue.png " class='translate-x-48 opacity-65' alt="" />
         </div>
         <div >
           <div class='mx-8 mt-7'>
@@ -215,7 +215,7 @@ export default function page() {
           <p class='-translate-y-6 font-bold mx-12 text-white' >United Kingdom</p>
         </div>
         <div>
-          <img src="canada.JPEG" class='w-80 mx-10 h-52' alt="not found" />
+          <img src="canada.jpeg" class='w-80 mx-10 h-52' alt="not found" />
           <p class='-translate-y-6 font-bold mx-12 text-white'>Canada</p>
 
         </div>
