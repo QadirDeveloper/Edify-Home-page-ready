@@ -4,7 +4,7 @@ export default function page() {
   return (
     <div class='py-10'>
       <div class='h-96 object-cover'>
-        <img src="./mountain.JPG" class='w-screen h-96 opacity-60' alt="not found" />
+        <img src="./mountain.jpg" class='w-screen h-96 opacity-60' alt="not found" />
 
       </div>
       <div class='text-white -translate-y-72 px-16'>
@@ -15,20 +15,20 @@ export default function page() {
 
       <div class=' flex mx-28 shadow-lg justify-between  -translate-y-56   bg-white text-black '>
         <div class='flex'>
-            <div><img src="Artboard 2.WEBP" alt="not found1" /></div>
+            <div><img src="Artboard 2.webp" alt="not found1" /></div>
             <div><h1>OVERSEAS EDUCATION</h1>
           <p>Edify Consultants Provides A To Z Services For Student Visa</p>
         </div>
         </div>
 
         <div class='flex'>
-          <div><img src="Artboard 5.WEBP" alt="not forn2" /></div>
+          <div><img src="Artboard 5.webp" alt="not forn2" /></div>
           <div><h1>IELTS</h1>
           <p>Being a platinum level member of the British council in Edify  </p></div>
         </div>
 
         <div class='flex'>
-          <div><img src="Artboard 8.WEBP" alt="not found 3" /></div>
+          <div><img src="Artboard 8.webp" alt="not found 3" /></div>
           <div>    <h1>IMMIGRATION          </h1>
           <p>At Edify Group, we are happy to ease the burden and help you</p></div>
       
@@ -42,7 +42,7 @@ export default function page() {
           <p class="opacity-60">Education is a driving force that focuses on developing reflective thinking and abilities so that the human race can discover how they wish to exist in today's competitive and ever-changing global economy. Amidst extraordinary uncertainty and dynamic world order, Edify, a leading Study Abroad Consultant, is dedicated to helping higher education leaders worldwide build resilience, seize growth opportunities, and discover new ways to enhance their skill sets. With a deep commitment to our clients' aspirations, we provide expert guidance on educational pathways, universities, scholarships, and the intricacies of the application process. We aim to enable students to access the best education tailored to their ambitions.</p>
         </div>
         <div class=''>
-          <img src="girl.WEBP" class='' alt="not found" />
+          <img src="girl.webp" class='' alt="not found" />
         </div>
       </div>
       {/* circle image section start */}
@@ -104,7 +104,7 @@ export default function page() {
       <div class='bg-slate-100 flex'>
 
         <div class='flex bg-white px-6 py-20 hover:bg-orange-500 hover:text-white  ml-28  rounded-xl my-11'>
-         <div><img src="Artboard1.WEBP" class='-translate-y-16 w-32' alt="not found image" />
+         <div><img src="Artboard1.webp" class='-translate-y-16 w-32' alt="not found image" />
          
          <p class=''>Counselling <br />
          Applying for studying abroad is a huge decision which is why we do not limit our counselling..</p>
@@ -113,7 +113,7 @@ export default function page() {
         </div>
 
         <div class='bg-white px-9 py-20 flex hover:bg-pink-500 hover:text-white mx-5  rounded-xl my-11 '>
-          <div><img src="Artboard 5.WEBP" class='-translate-y-16 w-32 ' alt="not found image" />
+          <div><img src="Artboard 5.webp" class='-translate-y-16 w-32 ' alt="not found image" />
           <p>Admission Guidance <br />
           We give special attention to your application, highlighting the areas essential for..</p>
           </div>
@@ -123,7 +123,7 @@ export default function page() {
         </div>
         
         <div class='bg-white px-9 py-20 flex  hover:bg-green-300 hover:text-white  mr-28   rounded-xl my-11'>
-         <div><img src="Artboard 2.WEBP" class='-translate-y-16 w-32 ' alt="not found image" />
+         <div><img src="Artboard 2.webp" class='-translate-y-16 w-32 ' alt="not found image" />
          <p>University Selection <br />
          University selection is the most crucial stage of the application process. It is done..</p>
          </div>
@@ -136,7 +136,7 @@ export default function page() {
       <div class='bg-slate-100 flex'>
 
         <div class='bg-white px-6 py-20 flex hover:bg-green-500 hover:text-white  ml-28  rounded-xl my-11'>
-         <div><img src="Artboard 8.WEBP" class='-translate-y-16 w-32' alt="not found image" />
+         <div><img src="Artboard 8.webp" class='-translate-y-16 w-32' alt="not found image" />
          <p>Counselling <br />
          Applying for studying abroad is a huge decision which is why we do not limit our counselling..</p>
          </div>
@@ -146,7 +146,7 @@ export default function page() {
         </div>
 
         <div class='bg-white px-9 py-20 flex hover:bg-purple-900 hover:text-white  mx-5  rounded-xl my-11 '>
-          <div><img src="Artboard 13.WEBP" class='-translate-y-16 ' alt="not found image" />
+          <div><img src="Artboard 13.webp" class='-translate-y-16 ' alt="not found image" />
           <p>Admission Guidance <br />
           We give special attention to your application, highlighting the areas essential for..</p>
           </div>
@@ -156,7 +156,7 @@ export default function page() {
         </div>
 
         <div class='bg-white px-9 py-20 flex hover:bg-blue-900 hover:text-white mr-28   rounded-xl my-11'>
-          <div><img src="Artboard 9.WEBP" class='-translate-y-16 ' alt="not found image" />
+          <div><img src="Artboard 9.webp" class='-translate-y-16 ' alt="not found image" />
           <p>University Selection <br />
           University selection is the most crucial stage of the application process. It is done..</p>
           </div>
@@ -169,7 +169,7 @@ export default function page() {
       <div class='bg-slate-100 flex'>
 
         <div class='bg-white px-6 py-24 flex hover:bg-green-500 hover:text-white  ml-28  rounded-xl my-11'>
-          <div><img src="Artboard 5.WEBP" class='-translate-y-16 w-32 ' alt="not found image" />
+          <div><img src="Artboard 5.webp" class='-translate-y-16 w-32 ' alt="not found image" />
           <p>Counselling <br />
           Applying for studying abroad is a huge decision which is why we do not limit our counselling..</p>
           </div>
@@ -179,7 +179,7 @@ export default function page() {
         </div>
 
         <div class='bg-white px-9 py-24 flex  hover:bg-purple-900 hover:text-white  mx-5  rounded-xl my-11 '>
-          <div><img src="Artboard 10.WEBP" class='-translate-y-16 ' alt="not found image" />
+          <div><img src="Artboard 10.webp" class='-translate-y-16 ' alt="not found image" />
           <p>Admission Guidance <br />
           We give special attention to your application, highlighting the areas essential for..</p>
           </div>
@@ -189,7 +189,7 @@ export default function page() {
         </div>
 
         <div class='bg-white px-9 py-24 flex hover:bg-blue-900 hover:text-white mr-28   rounded-xl my-11'>
-          <div><img src="Artboard 11.WEBP" class='-translate-y-16 ' alt="not found image" />
+          <div><img src="Artboard 11.webp" class='-translate-y-16 ' alt="not found image" />
           <p>University Selection <br />
           University selection is the most crucial stage of the application process. It is done..</p>
           </div>
@@ -211,7 +211,7 @@ export default function page() {
       {/* images section start */}
       <div class='flex mt-10 mx-20'>
         <div class=''>
-          <img src="uk.JPG " class='float-start mx-10 w-80 h-52' alt="not found 1" />
+          <img src="uk.jpg " class='float-start mx-10 w-80 h-52' alt="not found 1" />
           <p class='-translate-y-6 font-bold mx-12 text-white' >United Kingdom</p>
         </div>
         <div>
@@ -220,23 +220,23 @@ export default function page() {
 
         </div>
         <div>
-          <img src="australia.WEBP" class='float-right mx-10 w-80 h-52' alt="not found 3" />
+          <img src="australia.webp" class='float-right mx-10 w-80 h-52' alt="not found 3" />
           <p class='-translate-y-6 font-bold mx-12 text-white'>Australia</p>
         </div>
   </div>
 {/* pictures 2 starting */}
 <div class='flex mt-10 mx-20'>
         <div class=''>
-          <img src="garmany.JPG " class='float-start mx-10 w-80 h-52' alt="not found 1" />
+          <img src="garmany.jpg " class='float-start mx-10 w-80 h-52' alt="not found 1" />
           <p class='-translate-y-6 font-bold mx-12 text-white' >Germany</p>
         </div>
         <div>
-          <img src="malasia.WEBP" class='w-80 mx-10 h-52' alt="not found" />
+          <img src="malasia.webp" class='w-80 mx-10 h-52' alt="not found" />
           <p class='-translate-y-6 font-bold mx-12 text-white'>Malasia</p>
 
         </div>
         <div>
-          <img src="America.JPG" class='float-right mx-10 w-80 h-52 rounded-sm hover:text-wrap' alt="not found 3" />
+          <img src="America.jpg" class='float-right mx-10 w-80 h-52 rounded-sm hover:text-wrap' alt="not found 3" />
           <p class='-translate-y-6 font-bold mx-12 text-white'>Usa</p>
         </div>
   </div>
@@ -249,7 +249,7 @@ export default function page() {
     <div class='flex pt-8 px-8 pb-7 bg-slate-100   '>
 
       <div class='px-8 mx-5 pt-4 shadow-lg border-x-2 bg-white '>
-        <img src="ilets1.WEBP" class='w-80' alt="not found" />
+        <img src="ilets1.webp" class='w-80' alt="not found" />
         <button class='text-blue-900 bg-slate-200 hover:text-slate-200 px-6 py-1 rounded-lg mt-6 hover:bg-blue-900'>English Proficiency</button>
         <p class='text-2xl py-3'>LanguageCert International ESOL</p>
         <p>Enhance your speaking skills with</p>
@@ -257,14 +257,14 @@ export default function page() {
 
       </div>
       <div class='px-8  mx-5 pt-4 shadow-lg border-x-2 bg-white'>
-        <img src="ilets2.WEBP" alt="" />
+        <img src="ilets2.webp" alt="" />
         <button class='text-blue-900 bg-slate-200 hover:text-slate-200 px-6 py-1 rounded-lg mt-6 hover:bg-blue-900'>English Proficiency</button>
         <p class='text-2xl py-4'>IELTS Life Skills (A1/B1)L</p>
         <p>Attain practical language competence</p>
         <button class='text-slate-100 bg-blue-900  px-4 py-2 rounded-3xl mt-6 hover:bg-blue-900'>Enrol Now</button>
       </div>
       <div class='px-8 mx-5 pt-4 shadow-lg border-x-2 bg-white'>
-        <img src="ilets3.WEBP" alt="" />
+        <img src="ilets3.webp" alt="" />
         <button class='text-blue-900 bg-slate-200 hover:text-slate-200 px-6 py-1 rounded-lg mt-6 hover:bg-blue-900'>English Proficiency</button>
         <p class='text-2xl py-4'>IELTS Academic Course</p>
         <p>Excel in IELTS Academic with</p>
