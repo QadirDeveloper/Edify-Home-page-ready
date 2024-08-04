@@ -60,7 +60,7 @@ export default function page() {
           <h2 class='text-white text-2xl translate-y-3'>Quality of Services</h2>
           <p class='text-white translate-y-5 '>Actively designing solutions for the world’s most ambitious change-makers who will define the future.</p>
           <button class="px-8 py-2 translate-y-16 rounded-lg bg-white text-blue-800 hover:text-white hover:bg-blue-800 hover:border-x-2 hover:border-y-2">Select Desigion</button>
-          <img src="blue.png" class='translate-x-48 opacity-65' alt="" />
+          <img src="blue.png" class='translate-x-20 opacity-65' alt="" />
         </div>
         <div >
           <div class='mx-8 mt-7'>
